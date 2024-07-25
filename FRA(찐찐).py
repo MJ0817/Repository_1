@@ -1,3 +1,4 @@
+#산업현장에서 가장 많이 쓰이는 가연성 물질 10종에 대한 화재 위험성평가 계산기
 def classify_flammability(material):
     # 물질별 인화점 정보 (물질: 인화점)
     flash_points = {
